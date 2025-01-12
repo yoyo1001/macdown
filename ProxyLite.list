@@ -1,14 +1,14 @@
 # 代理补充列表-需要走特定代理的
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,macked.app
 DOMAIN-SUFFIX,gfxtra31.com
 DOMAIN-SUFFIX,motionarray.com
-DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,icerbox.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,mackde
+DOMAIN-KEYWORD,appstorrent
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
