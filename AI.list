@@ -62,3 +62,5 @@ IP-ASN,20473,no-resolve
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,www.claudeusercontent.com
+DOMAIN-SUFFIX,www.claude.com
