@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,www.novel543.com
 DOMAIN-SUFFIX,kan.timotxt.com
 DOMAIN-SUFFIX,www.xbanxia.com
 DOMAIN-SUFFIX,www.xiaohaishu.com
+DOMAIN-SUFFIX,macked.app
 DOMAIN-SUFFIX,gpt4all.io
 DOMAIN-SUFFIX,us.kg
 DOMAIN-SUFFIX,twking.cc
@@ -58,7 +59,7 @@ DOMAIN-SUFFIX,chef.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,mackde
+DOMAIN-KEYWORD,macked
 DOMAIN-KEYWORD,appstorrent
 DOMAIN-KEYWORD,gfxtra31
 DOMAIN-KEYWORD,motionarray
