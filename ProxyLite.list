@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,gpt4all.io
 DOMAIN-SUFFIX,us.kg
 DOMAIN-SUFFIX,twking.cc
 DOMAIN-SUFFIX,chef.net
+DOMAIN-SUFFIX,www.twking.cc
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
