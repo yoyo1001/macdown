@@ -9,6 +9,7 @@ DOMAIN-KEYWORD,macked
 DOMAIN-KEYWORD,updf
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,grok
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
 
@@ -28,6 +29,7 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN,ipapi.co
 DOMAIN,api.x.ai
 DOMAIN,grok.com
+DOMAIN,ssff.grok.com
 DOMAIN,x.ai
 DOMAIN,console.x.ai
 DOMAIN,x.com
