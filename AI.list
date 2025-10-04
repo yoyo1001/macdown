@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,gemini
 DOMAIN-KEYWORD,grok
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+DOMAIN-KEYWORD,pump
 
 # NAME: OpenAI
 DOMAIN,browser-intake-datadoghq.com
@@ -100,3 +101,4 @@ DOMAIN-SUFFIX,www.xyg688.com
 DOMAIN-SUFFIX,www.updf.com
 DOMAIN-SUFFIX,listenhub.ai
 DOMAIN-SUFFIX,racknerd.com
+DOMAIN-SUFFIX,pump.fun
