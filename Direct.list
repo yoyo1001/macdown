@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
+DOMAIN-SUFFIX,gh-proxy.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,apple
